@@ -1,0 +1,17 @@
+.navbar-icon {
+    width: 10%;   /* 宽度占据父元素（比如 <a> 或 <div>）的一半 */
+    height: auto;
+}
+pre {
+    background-color: #2d2d2d; /* 深灰色背景 */
+    color: #f8f8f2;            /* 浅色文字 */
+    padding: 15px;             /* 给边缘留点呼吸空间 */
+    border-radius: 5px;        /* 圆角，看起来高级一点 */
+    overflow-x: auto;          /* 如果代码太长，显示横向滚动条而不是撑破页面 */
+    font-family: 'Consolas', 'Monaco', monospace; /* 强制使用等宽字体 */
+}
+
+code {
+    /* 这一行保证 code 标签里不产生额外的空白 */
+    background: none;
+}

@@ -1,0 +1,3 @@
+like take the max value of those and say you are energetic or so...
+
+take other value into account like duration_ms 
